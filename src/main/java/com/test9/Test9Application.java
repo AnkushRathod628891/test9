@@ -9,6 +9,7 @@ public class Test9Application {
 	public static void main(String[] args) {
          int x = 10;
           System.out.println("x");
+		char ch = "x";
 		SpringApplication.run(Test9Application.class, args);
 	}
 

@@ -12,7 +12,8 @@ public class Test9Application {
          
 		int y =200;
 		System.out.println("y);
-  
+        char c = "n";
+		system.out.println("n");
   
  
 		SpringApplication.run(Test9Application.class, args);
